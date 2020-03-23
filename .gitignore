@@ -1,3 +1,7 @@
+# Project specific folders
+data/train/
+data/test/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
